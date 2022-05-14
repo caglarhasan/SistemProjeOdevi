@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    var icon = ViewBag.icon;
+    string srcc = "http://openweathermap.org/img/w/" + icon + ".png";
+}
+
+
+<div class="body-infos">
+    <div class="card-infos">
+        <div class="city-info">İstanbul, TR</div>
+        <div class="temp-value">@ViewBag.temperature <span>&#176;</span>C</div>
+        <div>
+            <img style="width:120px;height:120px;" src=@srcc alt="Alternate Text" />
+        </div>
+        <div class="weather-info">
+            @ViewBag.weather
+        </div>
+        <div class="other-infos">
+            <div class="feels-like-info">
+                <p>
+                    Hissedilen <br />
+                    <div class="deg-info">@ViewBag.feelslike <span>&#176;</span>C</div>
+                </p>
+            </div>
+            <div class="humidity-info">
+                <p>
+                    Nem <br />
+                    <div class="deg-info">@ViewBag.humidity %</div>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+

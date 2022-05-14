@@ -1,0 +1,28 @@
+﻿@using WeatherApp.Models
+@model List<Log>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1 style="color: antiquewhite">Logs Table (Last 10 Logs)</h1>
+<br />
+<table class="table-log table table-bordered table-hover table-striped">
+
+    <tr>
+        <th>ID</th>
+        <th>User IP Address</th>
+        <th>User Request Time</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.LogId</td>
+            <td>@item.UserIPAddress</td>
+            <td>@item.UserRequestTime</td>
+        </tr>
+    }
+</table>
+
