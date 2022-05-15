@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xpy4a2scqxleajv/hgBPdkWaktFO2mk2u2izDRJvYjC3SSSq5trMlpDfhug4qxfEQ+rEes0TIK2aDoj77WyFGg==",
+  "dgSpecHash": "uS6ofZmlyZWqr7dcXSrTiPvKXCpjEnxqgWKOHIngz2y/is28+15FXmuyrxTDBnanth8rXYCMeGtta/zShWag+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hasan\\source\\repos\\WeatherApp\\WeatherApp.csproj",
+  "projectFilePath": "C:\\Users\\Hasan\\Documents\\GitHub\\SistemProjeOdevi\\WeatherApp\\WeatherApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hasan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

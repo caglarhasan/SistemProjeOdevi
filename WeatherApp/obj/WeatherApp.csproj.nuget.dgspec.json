@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hasan\\source\\repos\\WeatherApp\\WeatherApp.csproj": {}
+    "C:\\Users\\Hasan\\Documents\\GitHub\\SistemProjeOdevi\\WeatherApp\\WeatherApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hasan\\source\\repos\\WeatherApp\\WeatherApp.csproj": {
+    "C:\\Users\\Hasan\\Documents\\GitHub\\SistemProjeOdevi\\WeatherApp\\WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hasan\\source\\repos\\WeatherApp\\WeatherApp.csproj",
+        "projectUniqueName": "C:\\Users\\Hasan\\Documents\\GitHub\\SistemProjeOdevi\\WeatherApp\\WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "C:\\Users\\Hasan\\source\\repos\\WeatherApp\\WeatherApp.csproj",
+        "projectPath": "C:\\Users\\Hasan\\Documents\\GitHub\\SistemProjeOdevi\\WeatherApp\\WeatherApp.csproj",
         "packagesPath": "C:\\Users\\Hasan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hasan\\source\\repos\\WeatherApp\\obj\\",
+        "outputPath": "C:\\Users\\Hasan\\Documents\\GitHub\\SistemProjeOdevi\\WeatherApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
