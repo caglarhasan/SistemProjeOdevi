@@ -8,4 +8,4 @@ Ayrıyetten sayfa ziyaretlerini loglayıp veri tabanına yazdım.
 
 --- 
 
-Projeyi ve veritabanını Docker ile dockerize ettim.
+Projeyi ve veritabanını Docker ile dockerize ettim. Ve Digital Ocean ile ayağa kaldırıp yayınladım.
